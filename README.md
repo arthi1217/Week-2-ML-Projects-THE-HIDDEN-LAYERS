@@ -4,28 +4,33 @@
 Linear Regression from Scratch and Student Pass/Fail Classification
 # Objective
 To understand Machine Learning model implementation and classification techniques by implementing Linear Regression from scratch and building a Student Pass/Fail prediction model.
+
 # Dataset
-Linear Regression
+
+# Linear Regression:
 Synthetic dataset generated using NumPy.
-Student Pass/Fail Classification
-# Dataset containing:
-•	Study Hours
-•	Attendance
-•	Pass (Target Variable)
+
+# Student Pass/Fail Classification:
+• Study Hours
+• Attendance
+• Pass (Target Variable)
+
 # Technologies Used
 •	Python
 •	NumPy
 •	Pandas
 •	Matplotlib
 •	Scikit-Learn
-•	Google Collab
+•	Google Colab
 •	GitHub
+
 # Team Members
 •	Arthi (Team Leader)
 •	Muskan Rathi
 •	THARUN.R
 •	Bollapelli Ashwitha
 •	Mayank Mishra
+
 # Screenshots
 Linear Regression
 
